@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#e8eef5" rx="200"/>
+  <text x="200" y="200" font-family="Roboto, sans-serif" font-size="96" font-weight="700" fill="#224b8d" text-anchor="middle" dominant-baseline="central">KW</text>
+  <text x="200" y="300" font-family="Roboto, sans-serif" font-size="18" fill="#224b8d" text-anchor="middle" opacity="0.5">Kaiying Wu</text>
+</svg>
